@@ -25,6 +25,8 @@ Trojan WS		: 443
 Sodosok WS/GRPC         : 443
 ```
 
+```Setup.sh: Bloman >< BURIQ```
+
 <h3>Install: </h3>
 
 ```
